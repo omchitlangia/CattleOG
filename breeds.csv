@@ -1,0 +1,56 @@
+Breed,Type,Category,Region,Notes
+Gir,Cattle,Indigenous Dairy,Gujarat,High milk yield, hardy
+Red Sindhi,Cattle,Indigenous Dairy,Sindh (now Pakistan) and India,Popular milch breed
+Sahiwal,Cattle,Indigenous Dairy,Punjab and Haryana,Highly adapted to heat
+Tharparkar,Cattle,Indigenous Dual Purpose,Rajasthan,Dual purpose utility
+Kankrej,Cattle,Indigenous Dual Purpose,Gujarat and Rajasthan,Good draught and milk
+Ongole,Cattle,Indigenous Dual Purpose,Andhra Pradesh and Tamil Nadu,Strong draught power
+Hariana,Cattle,Indigenous Dual Purpose,Haryana and western UP
+Deoni,Cattle,Indigenous Dual Purpose,Maharashtra and Karnataka
+Krishna Valley,Cattle,Indigenous Dual Purpose,Karnataka
+Amritmahal,Cattle,Indigenous Draught,Karnataka
+Hallikar,Cattle,Indigenous Draught,Karnataka
+Khillari,Cattle,Indigenous Draught,Maharashtra and Karnataka
+Kangayam,Cattle,Indigenous Draught,Tamil Nadu
+Bargur,Cattle,Indigenous Draught,Tamil Nadu
+Umblachery,Cattle,Indigenous Draught,Tamil Nadu
+Pulikulam,Cattle,Indigenous Draught,Tamil Nadu
+Alambadi,Cattle,Indigenous Draught,Tamil Nadu
+Bachaur,Cattle,Indigenous Draught,Bihar and Jharkhand
+Nellore,Cattle,Indigenous Draught,Andhra Pradesh
+Dangi,Cattle,Indigenous Draught,Maharashtra and Gujarat
+Poda Thurpu,Cattle,Indigenous Draught,Telangana
+Shweta Kapila,Cattle,Indigenous Dairy,Goa
+Himachali Pahari,Cattle,Indigenous Draught,Himachal Pradesh
+Nari,Cattle,Indigenous Draught,Gujarat and Rajasthan
+Dagri,Cattle,Indigenous Draught,Gujarat
+Thutho,Cattle,Indigenous Draught,Nagaland
+Rathi,Cattle,Indigenous Dairy,Rajasthan
+Ken-katha,Cattle,Indigenous Draught,MP and Chhattisgarh
+
+Murrah,Buffalo,Indigenous Dairy,Haryana and Punjab,High milk yield
+Surti,Buffalo,Indigenous Dairy,Gujarat
+Jaffarabadi,Buffalo,Indigenous Dairy,Gujarat,Known as fighting buffalo
+Mehsana,Buffalo,Indigenous Dairy,Gujarat,Crossbreed of Murrah and Surti
+Nagpuri,Buffalo,Indigenous Dairy,Maharashtra
+Bhadawari,Buffalo,Indigenous Dairy,UP and MP
+Pandharpuri,Buffalo,Indigenous Dairy,Maharashtra
+Toda,Buffalo,Indigenous Dairy,Tamil Nadu
+Kalahandi,Buffalo,Indigenous Draught,Odisha
+Chhattisgarhi,Buffalo,Indigenous Draught,Chhattisgarh
+Manda,Buffalo,Indigenous Draught,Odisha
+Luit (Swamp),Buffalo,Indigenous Draught,Assam
+Banni,Buffalo,Indigenous Dairy,Gujarat
+Gojri,Buffalo,Indigenous Dairy,HP and Punjab
+Nili Ravi,Buffalo,Indigenous Dairy,Punjab and Pakistan
+
+Jersey,Cattle,Exotic Dairy,Europe,Common exotic dairy breed
+Holstein Friesian,Cattle,Exotic Dairy,Europe,Common exotic dairy breed
+Brown Swiss,Cattle,Exotic Dairy,Europe
+Red Dane,Cattle,Exotic Dairy,Europe
+Ayrshire,Cattle,Exotic Dairy,Europe
+Guernsey,Cattle,Exotic Dairy,Europe
+
+Jersey Crossbreed,Cattle,Crossbreed Dairy,India,Jersey x Indigenous crosses
+Holstein Crossbreed,Cattle,Crossbreed Dairy,India,Holstein x Indigenous crosses
+Brown Swiss Crossbreed,Cattle,Crossbreed Dairy,India,Brown Swiss crosses
